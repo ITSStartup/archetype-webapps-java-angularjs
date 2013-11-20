@@ -16,6 +16,7 @@ webapps-java-angularjs archetype for creating web application with AngularJS 1.2
 * Spring 3.x and Hibernate 4.x configured; 
 * MySql 5.x 
 * Jersey 1.x Configured; 
+* AngularJS 1.2.x
 
 ###How to Install local?
 
